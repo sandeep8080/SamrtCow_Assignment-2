@@ -1,2 +1,2 @@
 # Dependencies
-$ npm i --save colorthief // Install before Running the application
+$ npm i --save colorthief
